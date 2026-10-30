@@ -3,7 +3,7 @@
 MP101 Mobile Programming 101, Intermediate Laboratory Activity
 Flutter + Dart, with Cloud Firestore (offline persistence enabled)
 
-**Student:** Jhanry Philip D. Espeso
+**Student:** Jhanry Espeso and Paul Bautista
 
 A mobile app for managing income, expenses, monthly budgets, category limits,
 savings goals, recurring bills, and financial analytics. All totals are
